@@ -27,7 +27,7 @@ This includes:
 
 ## Setting up Prerequisites on a Win machine
 
-1. Need to install python (version 3.5.x)
+1. Need to install python (version 3.5.x). When installing python, make sure that the python executables get added to the PATH variable.
 
 ## Setting up AWS IoT
 
