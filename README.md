@@ -25,6 +25,10 @@ This includes:
 - [Robotic Arm](http://www.amazon.com/dp/B00NB1DFF2)
 - [LEAP Motion Controller](http://www.amazon.com/dp/B00HVYBWQO)
 
+## Setting up Prerequisites on a Win machine
+
+1. Need to install python (version 3.5.x)
+
 ## Setting up AWS IoT
 
 1. Click on the **AWS IoT (Beta)** icon in the AWS Management Console.
