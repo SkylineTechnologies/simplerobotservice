@@ -99,7 +99,7 @@ if __name__ == "__main__":
     controller = Leap.Controller()
     controller.add_listener(aws_iot_listener)
 
-    print "To quit, press enter."
+    print("To quit, press enter.")
     try:
         sys.stdin.readline()
     except KeyboardInterrupt:
